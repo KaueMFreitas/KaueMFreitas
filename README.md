@@ -18,6 +18,6 @@
   <a href="https://www.tiktok.com/@0taldotom" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 
  
-![snake gif](https://github.com/Formandodev/KaueMFreitas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KaueMFreitas/KaueMFreitas/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
